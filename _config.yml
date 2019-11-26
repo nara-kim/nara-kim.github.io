@@ -2,18 +2,18 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               EunJu-Kang
+title:               Nara-Kim
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://eunju-kang.github.io
+url:                 https://nara-kim.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             은주's 블로그
+tagline:             Nara's 블로그
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
@@ -22,11 +22,11 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              EunJu Kang
-  email:             qjemfrkwl230@naver.com
+  name:              Nara Kim
+  email:             scskykim@naver.com
 
 # Fallback image and color
-image:               /assets/img/night.jpg
+image:               /assets/img/sky.jpg
 color:               '#293462'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -44,13 +44,13 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics: UA-144834598-2
+google_analytics: UA-153448444-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus_shortname:    EunJu
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019. by EunJu'
+copyright:           '&copy; 2019. by Nara'
 
 # Format of the permalinks
 permalink:           pretty

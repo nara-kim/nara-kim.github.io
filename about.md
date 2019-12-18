@@ -5,7 +5,7 @@ menu: true
 order: 10
 ---
 
-## EunJu Kang
+## Nara Kim
 
-- [EunJu's Github](https://github.com/EunJu-Kang) <br>
-![Github Image](https://ghchart.rshah.org/EunJu-Kang)
+- [Nara's Github](https://github.com/nara-kim) <br>
+![Github Image](https://ghchart.rshah.org/nara-kim)

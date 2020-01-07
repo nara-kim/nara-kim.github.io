@@ -7,4 +7,3 @@
 <li>Spring, Vue.js</li>
 <li>MySQL</li>
 <h2> Projects </h2>
-http://danielku.com/posts/2014-02-13-markdown/

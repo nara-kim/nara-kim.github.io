@@ -7,3 +7,4 @@
 <li>Spring, Vue.js</li>
 <li>MySQL</li>
 <h2> Projects </h2>
+<li>캡스톤</li>

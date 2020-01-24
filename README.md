@@ -8,3 +8,4 @@
 <li>MySQL</li>
 <h2> Projects </h2>
 <li>AR을 이용한 지도 어플</li>
+https://youtu.be/Ps5obYMwXwA

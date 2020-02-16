@@ -7,6 +7,6 @@
 <li>Spring, Vue.js</li>
 <li>MySQL</li>
 <h2> Projects </h2>
-<li>AR을 이용한 지도 어플리케이션</li>
+<li>AR을 이용한 지도 어플리케이션(2018.03 ~ 2018.12)</li>
 https://youtu.be/Ps5obYMwXwA
 <li>SAFE FOOD</li>

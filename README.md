@@ -10,3 +10,4 @@
 <li>AR을 이용한 지도 어플리케이션(2018.03 ~ 2018.12)</li>
 https://youtu.be/Ps5obYMwXwA
 <li>SAFE FOOD</li>
+<li>농축산 </li>

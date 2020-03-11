@@ -4,7 +4,7 @@
 <li> 삼성 청년 소프트웨어 아카데미 2기 (2019.07 ~ ) </li>
 <h2> Skills </h2>
 <li>Java, C, JSP</li>
-<li>Spring, Vue.js</li>
+<li>Spring, Vue.js, Django</li>
 <li>MySQL</li>
 <h2> Projects </h2>
 <li>AR을 이용한 지도 어플리케이션(2018.03 ~ 2018.12)</li>

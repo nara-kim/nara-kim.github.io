@@ -11,4 +11,5 @@
 쉽게 교내정보 및 길을 알려주는 AR을 이용한 Android 앱
 https://youtu.be/Ps5obYMwXwA
 <li>SAFE FOOD</li>
-<li>농축산 포털사이트(2020.01~2020.03)</li>
+<li>농업 포털 반응형 웹사이트(2020.01~2020.03)</li>
+<li>자소서를 이용하여 MBTI 분석 웹사이트</li>

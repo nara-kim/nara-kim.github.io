@@ -14,6 +14,7 @@ https://youtu.be/Ps5obYMwXwA
 
 - SAFE FOOD (2019.09 ~ 2019.11) <br>
 `알레르기를 가진 사람들이 안전하게 식품을 섭취하도록 도와주는 Spring Framework 및 jsp 기반 웹 플랫폼` <br>
+https://docs.google.com/presentation/d/1OmU6OXqTl6VXZtfGwdXCGtmYy-fRm0D-/edit#slide=id.p1
 
 - Farmers (2020.01 ~ 2020.03) <br>
 `농업 포털 반응형 웹사이트` <br>

@@ -26,7 +26,7 @@ https://youtu.be/BscNuljD5Xs
 `자소서를 이용하여 텍스트 분석을 통해 MBTI 유형을 제공해주는 웹 플랫폼` <br>
 https://youtu.be/iMKle-uBosA
 
-- 아두이노를 이용한 스마트홈 구축 (2020.05 ~ 2020.06) <br>
+- Arduino를 이용한 스마트홈 구축 (2020.05 ~ 2020.06) <br>
 `각종 센서로부터 데이터를 수집하여 사용자 편의에 맞추어 제공`<br>
 `모바일을 통한 기기 제어`<br>
 https://youtu.be/36CYu3BqFho

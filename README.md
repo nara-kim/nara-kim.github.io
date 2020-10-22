@@ -4,6 +4,7 @@
 - 삼성 청년 소프트웨어 아카데미 2기 (2019.07 ~ 2020.06)
 ## Skills
 - Java, C, JavaScript
+- jQuery, HTML5, CSS
 - Spring, Vue.js, Django
 - MySQL
 

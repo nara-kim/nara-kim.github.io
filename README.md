@@ -5,7 +5,7 @@
 ## Skills
 - Java, C, JavaScript
 - jQuery, HTML5, CSS
-- Spring, Vue.js, Django
+- Spring, Vue.js
 - MySQL
 
 ## Projects
